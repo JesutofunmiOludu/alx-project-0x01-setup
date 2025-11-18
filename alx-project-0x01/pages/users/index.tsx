@@ -84,5 +84,4 @@ export async function getStaticProps() {
     }
   };
 }
-
 export default Users;
